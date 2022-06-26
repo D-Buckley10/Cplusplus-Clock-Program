@@ -1,3 +1,3 @@
 # Module Eight Journal
-Hello World
-  The
+  For this project, the Chada Tech Clocks, I was tasked with creating a 12-HR clock and a 24-HR clock that would display next each other side by side. Once displayed, then the user can determine how much time should be added to the clock, with the choices of adding one hour, one minute, and one second being available. This program would keep running in a loop until the user decides to exit the program.  
+  I felt that I did the display menus very well, as well as also minimizing the main function. Using a fucntion to create a display is a great way to minimize the code in main, however I wish I could have implemented the current machine time into the program rather than just set it to midnight initially. 
